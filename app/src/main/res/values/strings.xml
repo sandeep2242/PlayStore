@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">PlayStore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="titleArray">
+        <item>Recommended for You</item>
+        <item>New &amp; updated games  </item>
+        <item>Pre-Registration Games</item>
+    </string-array>
+
+    <string-array name="stringsArray">
+        <item>recy1</item>
+        <item>recy1Title</item>
+        <item>recy2</item>
+        <item>recy2Title</item>
+        <item>recy3</item>
+        <item>recy3Title</item>
+    </string-array>
+
+    <string-array name="subTitleArray">
+        <item>null</item>
+        <item>Selected games of the week</item>
+        <item>Comming soon to Google Play</item>
+    </string-array>
+
+    <string-array name="recy1">
+        <item>https://lh3.googleusercontent.com/A1kQ8w2KXky47rq23ipejghU2RtTv6cyMZjN08sBLYttFkCHJxOemJ1oXCUm1sntZMlx=w200-h300-rw</item>
+        <item>https://lh3.googleusercontent.com/5snGuFbe1RfUqK6zOvn940W7Om7QwWnmOhCSYmWAw-Kt7uD_xzNPnPbNQsy6L4NRbS73=w200-h300-rw</item>
+        <item>https://lh3.googleusercontent.com/-JjfVy84SfThxQQ-b1rJC1l4ReH5sMJHVtd5aLBrMs83IJKZ4Jp6GMuYFlSxn45cc_L6=w200-h300-rw</item>
+        <item>https://lh3.googleusercontent.com/CXGulf5Tuk3OtcVm9pF_4G24ap4ByvQaLrhitfwLGyU4BWCWg2nw1pJXgwnwqkDMxDeKpA=w200-h300-rw</item>
+    </string-array>
+
+    <string-array name="recy1Title">
+        <item>Jurasic Park</item>
+        <item>Avengers</item>
+        <item>Deadpool</item>
+        <item>Thor:Raganrok</item>
+    </string-array>
+    <string-array name="recy2">
+        <item>https://lh3.googleusercontent.com/rFmTpCoFfUraFMJA1oVj3IzgHMcadJYn3C_H2FTTrgHVBRVoyqXPsyX6uCzRmduxtaI=s180-rw</item>
+        <item>https://lh3.ggpht.com/onlNBInQHIZtB2rY24BwrEsUUKwE753ao1BAvvhOw2ePEN1IHIUjaR3gvlGd3jyKTdg=s180-rw</item>
+        <item>https://lh3.googleusercontent.com/iOi6YJxQwMenT5UQWGPWTrFMQFm68IC4uKlFtARveZzVD5lTZ7fC47_rnnF7Tk48DpY=s180-rw</item>
+        <item>https://lh3.ggpht.com/a6jpIVdk-6hESqHOPexM5FIS3PxFLGg4cNLRdK7vSWdo_Q0Yt8pjmP9RZy6mEE-rKYNS=s180-rw</item>
+    </string-array>
+    <string-array name="recy2Title">
+        <item>Subway Surfers</item>
+        <item>Temple Run</item>
+        <item>Angry Birds Classic</item>
+        <item>Rail Rush</item>
+    </string-array>
+    <string-array name="recy3">
+        <item>https://lh3.ggpht.com/Qwq0soHLwFY7-ymNPiKXKPszugMPqLW4-aMxapSV0cWbcKrG8j1jjyHhzt6fNW7SxJ6c=s180-rw</item>
+        <item>https://lh3.ggpht.com/aYvDRNpzsvUsQBjW5fiX611J_OKMkQp8jJLBCf1BTKEYHQ8NF50icq_vxFJv6EcX_Tk=s180-rw</item>
+        <item>https://lh3.googleusercontent.com/gxylrEt14mAOWhHLJbuHg7lIa3h8t5tLbXcCZL_ox437C4UVO7Euk9rj6fjGLUdnTWw=s180-rw</item>
+        <item>https://lh3.googleusercontent.com/0lQgeZ7CE8B-cQDRUDFiirugBe1EFF-IEf4NSu9TOBnqIjZWGdjPZKjTsVNOdubalww=s180-rw</item>
+    </string-array>
+
+    <string-array name="recy3Title">
+        <item>LIMBO demo</item>
+        <item>BADLAND</item>
+        <item>Alto's Adventure</item>
+        <item>Alto's Odyssey</item>
+    </string-array>
+
+    <string-array name="recy1price">
+        <item>90 Rs</item>
+        <item>100 Rs</item>
+        <item>99 Rs</item>
+        <item>99 Rs</item>
+    </string-array>
+
+    <string-array name="recy2size">
+        <item>24 Mb</item>
+        <item>100 Mb</item>
+        <item>50 Mb</item>
+        <item>30 Mb</item>
+    </string-array>
+
+    <string-array name="recy3size">
+        <item>24 Mb</item>
+        <item>100 Mb</item>
+        <item>50 Mb</item>
+        <item>30 Mb</item>
+    </string-array>
+
+    <string-array name="newRow">
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_btm_navi">BtmNavi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_tab_layout">TabLayout</string>
+
+    <string-array name="titleArr">
+        <item>You have earned Rs 50 for this order</item>
+        <item>You have earned Rs 40 for this order</item>
+        <item>You have earned Rs 30 for this order</item>
+        <item>You have earned Rs 500 for this order</item>
+    </string-array>
+    <string-array name="orderId">
+        <item>150802</item>
+        <item>199594</item>
+        <item>147780</item>
+        <item>190130</item>
+    </string-array>
+
+
+    <string-array name="impIntentName">
+        <item>Call</item>
+        <item>Search</item>
+        <item>Find contact</item>
+        <item>Contacts</item>
+    </string-array>
+
+    <string-array name="impIntentId">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="frndName">
+        <item>Pragya</item>
+        <item>saurabh</item>
+        <item>Neetu</item>
+        <item>Amit</item>
+    </string-array>
+    <string name="activity">
+Introduction to Activities
+The Activity class is a crucial component of an Android app, and the way activities are launched and put together is a fundamental part of the platform\'s application model. Unlike programming paradigms in which apps are launched with a main() method, the Android system initiates code in an Activity instance by invoking specific callback methods that correspond to specific stages of its lifecycle.
+
+        This document introduces the concept of activities, and then provides some lightweight guidance about how to work with them. For additional information about best practices in architecting your app, see Guide to App Architecture.
+
+        The concept of activities
+        The mobile-app experience differs from its desktop counterpart in that a user\'s interaction with the app doesn\'t always begin in the same place. Instead, the user journey often begins non-deterministically. For instance, if you open an email app from your home screen, you might see a list of emails. By contrast, if you are using a social media app that then launches your email app, you might go directly to the email app\'s screen for composing an email.
+
+        The Activity class is designed to facilitate this paradigm. When one app invokes another, the calling app invokes an activity in the other app, rather than the app as an atomic whole. In this way, the activity serves as the entry point for an app\'s interaction with the user. You implement an activity as a subclass of the Activity class.
+
+        An activity provides the window in which the app draws its UI. This window typically fills the screen, but may be smaller than the screen and float on top of other windows. Generally, one activity implements one screen in an app. For instance, one of an app’s activities may implement a Preferences screen, while another activity implements a Select Photo screen.
+
+        Most apps contain multiple screens, which means they comprise multiple activities. Typically, one activity in an app is specified as the main activity, which is the first screen to appear when the user launches the app. Each activity can then start another activity in order to perform different actions. For example, the main activity in a simple e-mail app may provide the screen that shows an e-mail inbox. From there, the main activity might launch other activities that provide screens for tasks like writing e-mails and opening individual e-mails.
+
+        Although activities work together to form a cohesive user experience in an app, each activity is only loosely bound to the other activities; there are usually minimal dependencies among the activities in an app. In fact, activities often start up activities belonging to other apps. For example, a browser app might launch the Share activity of a social-media app.
+
+To use activities in your app, you must register information about them in the app’s manifest, and you must manage activity lifecycles appropriately. The rest of this document introduces these subjects.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
